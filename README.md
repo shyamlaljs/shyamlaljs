@@ -9,8 +9,7 @@ Full-time Full Stack Developer · building toward applied AI/ML and research
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamlal-js/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shyamlaljs2704@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]((https://shyamlal-portfolio.vercel.app/))
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shyamlal-portfolio.vercel.app/)
 </div>
 
 ---
